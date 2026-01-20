@@ -6,7 +6,7 @@
     "dev": "prisma db push && next dev",
     "dev:studio": "prisma studio",
     "start": "prisma db push && next start",
-    "build": next build",
+    "build": "next build",
     "lint": "next lint",
     "typecheck": "yarn tsc",
     "prepare": "husky install",
